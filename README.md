@@ -1,16 +1,13 @@
-## Hi there 👋
+Greetings, je m'appelle Zéphyr.
 
-<!--
-**zeph-exe/zeph-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mes intérêts: 
+- Frontend and backend development
+- Software development
+- Cybersecurity
+- Pentesting
+- Network Security
+- Cloud Security
+- Blockchain Security
+- Digital Forensics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vous pouvez me contacter via ce compte github pour une collaboration ultérieure, merci beaucoup. 
