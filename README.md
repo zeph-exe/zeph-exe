@@ -1,6 +1,6 @@
-Greetings, je m'appelle Zéphyr.
+Hello, I'm Louis Naing. Currently pursuing my Bachelors of CyberSecurity in SEA. 
 
-Mes intérêts: 
+Interests: 
 - Frontend and backend development
 - Software development
 - Cybersecurity
@@ -9,5 +9,3 @@ Mes intérêts:
 - Cloud Security
 - Blockchain Security
 - Digital Forensics
-
-Vous pouvez me contacter via ce compte github pour une collaboration ultérieure, merci beaucoup. 
